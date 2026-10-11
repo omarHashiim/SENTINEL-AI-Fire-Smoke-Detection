@@ -4,6 +4,10 @@
 
 SENTINEL AI is a computer vision project designed to detect fire and smoke in images and videos using a trained YOLO object detection model. The project integrates an interactive Streamlit dashboard to make detection, result visualization, and event monitoring accessible through a user-friendly interface.
 
+## Dashboard Preview
+
+![SENTINEL AI Dashboard](sentinel-dashboard.png)
+
 ## Overview
 
 Early fire and smoke detection can help improve situational awareness and support faster responses to potential hazards.
