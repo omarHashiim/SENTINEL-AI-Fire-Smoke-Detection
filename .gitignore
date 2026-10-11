@@ -1,0 +1,46 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+
+# Secrets
+
+.env
+.env.*
+!.env.example
+secrets.toml
+
+# Model weights
+
+best.pt
+*.onnx
+
+# Datasets
+
+dataset/
+datasets/
+train/
+valid/
+test/
+
+# Generated outputs
+
+alerts/logs/*
+alerts/snapshots/*
+alerts/processed_videos/*
+
+# Temporary files
+
+*.tmp
+*.log
+
+# IDE
+
+.vscode/
