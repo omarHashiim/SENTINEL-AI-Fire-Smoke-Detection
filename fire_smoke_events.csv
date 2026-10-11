@@ -1,0 +1,56 @@
+﻿timestamp,class_name,confidence,image_name,snapshot_path,alert_type
+2026-10-10T00:14:50+03:00,Smoke,0.5903,Screenshot (256).png,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\alert_20261010_001450_261124_Screenshot (256).jpg,Snapshot + CSV
+2026-10-10T00:14:50+03:00,Fire,0.5421,Screenshot (256).png,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\alert_20261010_001450_261124_Screenshot (256).jpg,Snapshot + CSV
+2026-10-10T00:30:05+03:00,Fire,0.7443,236711_medium.mp4,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_003005_005352.jpg,Video detection
+2026-10-10T00:37:28+03:00,Smoke,0.7091,Screenshot (257).png,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\alert_20261010_003728_470578_Screenshot (257).jpg,Snapshot + CSV
+2026-10-10T00:37:28+03:00,Fire,0.5747,Screenshot (257).png,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\alert_20261010_003728_470578_Screenshot (257).jpg,Snapshot + CSV
+2026-10-10T00:37:28+03:00,Fire,0.5190,Screenshot (257).png,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\alert_20261010_003728_470578_Screenshot (257).jpg,Snapshot + CSV
+2026-10-10T00:46:07+03:00,Fire,0.8425,Video Project.mp4,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_004607_218771.jpg,Video detection
+2026-10-10T00:46:07+03:00,Smoke,0.2678,Video Project.mp4,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_004607_218771.jpg,Video detection
+2026-10-10T00:52:43+03:00,Fire,0.7844,istockphoto-2179038126-mp4-480x480-is.mp4,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_005243_679749.jpg,Video detection
+2026-10-10T00:52:43+03:00,Smoke,0.5890,istockphoto-2179038126-mp4-480x480-is.mp4,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_005243_679749.jpg,Video detection
+2026-10-10T00:57:07+03:00,Fire,0.7844,istockphoto-2179038126-mp4-480x480-is.mp4,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_005707_442489.jpg,Video detection
+2026-10-10T00:57:07+03:00,Smoke,0.5890,istockphoto-2179038126-mp4-480x480-is.mp4,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_005707_442489.jpg,Video detection
+2026-10-10T01:03:02+03:00,Fire,0.8425,Video Project.mp4,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_010302_403762.jpg,Video detection
+2026-10-10T01:03:02+03:00,Smoke,0.2678,Video Project.mp4,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_010302_403762.jpg,Video detection
+2026-10-10T17:24:08+03:00,Fire,0.5981,pexels-pexels-user-2155124683-33556462.jpg,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\alert_20261010_172408_900939_pexels-pexels-user-2155124683-33556462.jpg,Snapshot + CSV
+2026-10-10T17:24:36+03:00,Fire,0.4227,pexels-tamilinian-18708793.jpg,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\alert_20261010_172436_005620_pexels-tamilinian-18708793.jpg,Snapshot + CSV
+2026-10-10T17:24:36+03:00,Fire,0.4068,pexels-tamilinian-18708793.jpg,C:\Users\DELL\OneDrive\Desktop\Fire_Smoke_App\alerts\snapshots\alert_20261010_172436_005620_pexels-tamilinian-18708793.jpg,Snapshot + CSV
+2026-10-10T20:54:32+03:00,Smoke,0.7841,alert_20261010_001450_261124_Screenshot (256).jpg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_205432_775829_alert_20261010_001450_261124_Screenshot (256).jpg,Snapshot + CSV
+2026-10-10T20:54:32+03:00,Fire,0.6902,alert_20261010_001450_261124_Screenshot (256).jpg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_205432_775829_alert_20261010_001450_261124_Screenshot (256).jpg,Snapshot + CSV
+2026-10-10T20:55:40+03:00,Fire,0.5317,video_alert_20261010_004607_218771.jpg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_205540_138496_video_alert_20261010_004607_218771.jpg,Snapshot + CSV
+2026-10-10T20:58:45+03:00,Smoke,0.6862,images.jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_205845_133402_images.jpg,Snapshot + CSV
+2026-10-10T21:08:24+03:00,Fire,0.7517,images (2).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_210824_855033_images (2).jpg,Snapshot + CSV
+2026-10-10T21:10:31+03:00,Smoke,0.5784,images (3).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_211031_947397_images (3).jpg,Snapshot + CSV
+2026-10-10T21:35:27+03:00,Fire,0.7517,images (2).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_213527_398906_images (2).jpg,Snapshot + CSV
+2026-10-10T21:41:19+03:00,Fire,0.8352,images (1).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_214119_074201_images (1).jpg,Snapshot + CSV
+2026-10-10T21:41:19+03:00,Smoke,0.4812,images (1).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_214119_074201_images (1).jpg,Snapshot + CSV
+2026-10-10T21:42:22+03:00,Smoke,0.5784,images (3).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_214222_994775_images (3).jpg,Snapshot + CSV
+2026-10-10T21:42:47+03:00,Fire,0.8352,images (1).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_214247_949540_images (1).jpg,Snapshot + CSV
+2026-10-10T21:42:47+03:00,Smoke,0.4812,images (1).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_214247_949540_images (1).jpg,Snapshot + CSV
+2026-10-10T21:53:32+03:00,Smoke,0.5403,199788-911378451_medium.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_215332_339154.jpg,Video detection
+2026-10-10T21:54:47+03:00,Smoke,0.8064,61415-498529691_medium.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_215447_086737.jpg,Video detection
+2026-10-10T21:54:47+03:00,Fire,0.6008,61415-498529691_medium.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261010_215447_086737.jpg,Video detection
+2026-10-10T22:00:36+03:00,Smoke,0.4069,jackmac34-plane-2736622_1920.jpg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_220036_847711_jackmac34-plane-2736622_1920.jpg,Snapshot + CSV
+2026-10-10T22:07:21+03:00,Fire,0.7517,images (2).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261010_220721_398317_images (2).jpg,Snapshot + CSV
+2026-10-11T07:07:18+03:00,Smoke,0.4069,jackmac34-plane-2736622_1920.jpg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_070718_189035_jackmac34-plane-2736622_1920.jpg,Snapshot + CSV
+2026-10-11T07:16:02+03:00,Smoke,0.4320,223852_medium.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261011_071602_112083.jpg,Video detection
+2026-10-11T07:16:02+03:00,Fire,0.6580,223852_medium.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261011_071602_112083.jpg,Video detection
+2026-10-11T07:24:41+03:00,Fire,0.7517,images (2).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_072441_341071_images (2).jpg,Snapshot + CSV
+2026-10-11T22:44:20+03:00,Fire,0.6977,359864.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261011_224420_208648.jpg,Video detection
+2026-10-11T22:44:20+03:00,Smoke,0.6414,359864.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261011_224420_208648.jpg,Video detection
+2026-10-11T22:49:40+03:00,Fire,0.7517,images (2).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_224940_895008_images (2).jpg,Snapshot + CSV
+2026-10-11T22:49:57+03:00,Fire,0.8352,images (1).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_224957_776829_images (1).jpg,Snapshot + CSV
+2026-10-11T22:49:57+03:00,Smoke,0.4812,images (1).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_224957_776829_images (1).jpg,Snapshot + CSV
+2026-10-11T22:50:47+03:00,Fire,0.6977,359864.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261011_225047_319112.jpg,Video detection
+2026-10-11T22:50:47+03:00,Smoke,0.6414,359864.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261011_225047_319112.jpg,Video detection
+2026-10-11T22:56:13+03:00,Fire,0.7517,images (2).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_225613_490147_images (2).jpg,Snapshot + CSV
+2026-10-11T22:56:31+03:00,Fire,0.8352,images (1).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_225631_440551_images (1).jpg,Snapshot + CSV
+2026-10-11T22:56:31+03:00,Smoke,0.4812,images (1).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_225631_440551_images (1).jpg,Snapshot + CSV
+2026-10-11T22:57:39+03:00,Fire,0.6977,359864.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261011_225739_102250.jpg,Video detection
+2026-10-11T22:57:39+03:00,Smoke,0.6414,359864.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261011_225739_102250.jpg,Video detection
+2026-10-11T23:00:39+03:00,Fire,0.7517,images (2).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_230039_828790_images (2).jpg,Snapshot + CSV
+2026-10-11T23:00:55+03:00,Fire,0.8352,images (1).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_230055_969593_images (1).jpg,Snapshot + CSV
+2026-10-11T23:00:55+03:00,Smoke,0.4812,images (1).jpeg,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\alert_20261011_230055_969593_images (1).jpg,Snapshot + CSV
+2026-10-11T23:02:01+03:00,Fire,0.6977,359864.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261011_230201_952685.jpg,Video detection
+2026-10-11T23:02:01+03:00,Smoke,0.6414,359864.mp4,C:\Users\Admin\Downloads\Fire_Smoke_App\Fire_Smoke_App\alerts\snapshots\video_alert_20261011_230201_952685.jpg,Video detection
